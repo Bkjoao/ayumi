@@ -34,12 +34,12 @@ global.APIKeys = {
 global.keyofc = 'sayo_ofc'
 
 //═══════[modification]════════\\
-global.prefix = '#'
-global.coderNumero = ['5562936180708']
+global.prefix = '¥'
+global.coderNumero = ['557798132703']
 global.logo = fs.readFileSync('./ıɱɢ/ayumi.jpg')
 global.nomebot = ['ayumi']
-global.nomedono = ['breno']
-global.idgrupo = ['breno']
+global.nomedono = ['bkjoao']
+global.idgrupo = ['bkjoao']
 global.auutor = 'breno ' //nome dos créditos da figurinha > autor
 global.pacote = 'ayumi ofc ' //nome dos créditos da figurinha > pacote
 global.delayantispamcmd = '3' //padrão e 5 segundos
